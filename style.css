@@ -1,0 +1,52 @@
+
+.header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family: Arial, sans-serif;
+}
+
+.navbar-nav .nav-link {
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #a52a2a;
+    padding: 0 5px;
+    border-right: 1px solid #ddd;
+}
+
+.navbar-nav .nav-link:last-child {
+    border-right: none;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #d9534f;
+    text-decoration: underline;
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
+   
+}
+
+.university-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #000;
+    margin: 0;
+}
+
+.university-subtitle {
+    font-size: 16px;
+    color: #000;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.slogan {
+    font-size: 12px;
+    color: #8b4513;
+    font-weight: bold;
+}
